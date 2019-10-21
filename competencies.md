@@ -241,7 +241,7 @@ Mastery of a competency is cumulative. At each successive level, engineers are e
             </td>
             <td valign="top">
                 <ul>
-                    <li>You've made significant changes to how Etsy handles documentation, facillitation, or collaboration that has improved the functioning of the Engineering organization.</li>
+                    <li>You've made significant changes to how Etsy handles documentation, facilitation, or collaboration that has improved the functioning of the Engineering organization.</li>
                     <li>You create spaces and channels that improve cross-team and inter-departmental communication.</li>
                     <li>Others often turn to you to make and communicate difficult decisions.</li>
                     <li>Your presence and example has a strong, positive influence on Etsy's working environment.</li>
