@@ -101,7 +101,7 @@ Mastery of a competency is cumulative. At each successive level, engineers are e
                     <li>You use your specialized knowledge as well as your business and technical acumen to ensure that projects succeed.</li>
                     <li>You know what tools are available and useful for your domain. You understand how they work, and the sorts of situations and problems for which they're useful. You use them effectively and teach them to your teammates.</li>
                     <li>You have strong, well-founded opinions about how to build software in your domain, but you're adaptable and open to new ideas.</li>
-                    <li>You closely follow industry trends relevant to your domain and understand how apply them to your work as appropriate.</li>
+                    <li>You closely follow industry trends relevant to your domain and understand how to apply them to your work as appropriate.</li>
                     <li>You share your knowledge with your coworkers. You're able to explain topics about which you know a great deal to those who know less in a way that is understandable and not condescending.</li>
                 </ul>
             </td>
